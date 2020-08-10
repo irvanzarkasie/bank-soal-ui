@@ -1,0 +1,20 @@
+{
+  "short_name": "Text Editor",
+  "name": "Text Editor Progressive Web App",
+  "icons": [
+    {
+      "src":"icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src":"icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#222",
+  "theme_color": "#ffc80a",
+  "display": "standalone"
+}
